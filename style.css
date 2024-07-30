@@ -23,7 +23,7 @@ body {
 
 .left {
     flex: 1;
-    background: url('photo-1722262179250-93e46b15f50f.png') no-repeat center center/cover;
+    background: url('./sign up Form/assets/photo-1722262179250-93e46b15f50f.png') no-repeat center center/cover;
     position: relative;
 }
 
